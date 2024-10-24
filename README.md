@@ -16,5 +16,8 @@
 * Shop example
 * p
 
+## Credits:
+* BrendaK7200 — Multiple party members UI in-battle
+
 ## please report bugs to me on the project's thread in the kristal server thank you
 ## or you can use the issues tab but i probably wont check it often .
