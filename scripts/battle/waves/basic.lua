@@ -1,5 +1,11 @@
 local Basic, super = Class(Wave)
 
+function Basic:init()
+    super.init(self)
+
+    self:setArenaSize(100)
+end
+
 function Basic:onStart()
     -- Every 0.33 seconds...
     self.timer:every(1/3, function()
@@ -19,7 +25,7 @@ end
 function Basic:update()
     -- Code here gets called every frame
 
-    super.update(self)
+    super:update(self)
 end
 
 return Basic
