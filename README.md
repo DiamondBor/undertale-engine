@@ -17,6 +17,7 @@
 * p
 
 ## Credits:
+* Undertaled / Bor — Making the mod
 * BrendaK7200 — Multiple party members UI in-battle
 
 ## please report bugs to me on the project's thread in the kristal server thank you
